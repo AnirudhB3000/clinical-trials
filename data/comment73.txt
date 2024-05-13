@@ -1,0 +1,1 @@
+It won't link to a sub if you put a capital R in front. So mobile users are usually unable to link unless you are able to catch the r, and make sure it's the correct case usage.

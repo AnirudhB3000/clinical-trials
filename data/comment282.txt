@@ -1,0 +1,5 @@
+The WHO also made a very short reference to it in their mission report:
+
+"Fecal shedding has been demonstrated from some patients, and viable virus has been identified in a limited number of case reports. However, the fecal-oral route does not appear to be a driver of COVID-19 transmission; its role and significance for COVID-19 remains to be determined."
+
+ [https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)

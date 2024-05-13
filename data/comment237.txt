@@ -1,0 +1,9 @@
+I edited my original comment right around the same time you were posting this.  
+
+I appreciate you taking the time to post links.  I don't know if you've actually read the first article you're citing, but it's pretty janky for a review.  It keeps making bad conclusions like "the elderly have reduced plasma levels of vitamin C after influenza, and giving vitamin C returns plasma levels to optimal dosing, ergo it reduces influenza."  Like, the final thing doesn't follow from what they're saying; they frequently are just implying the conclusion too.  I even bothered to look up some of their citations, and they're using case studies as evidence, and on at least one occasion, cite a single case study as two separate citations to make their information appear more heavily supported.  It's also citing studies with no statistics, and studies that showed no significance, or studies that showed the *opposite* (that vitamin C doesn't work).    :/
+
+In the second study, they're using a cocktail, so we can't really attribute success to any single portion of that.  This is a little more interesting though.
+
+So a quick survey of PubMed suggests that vitamin C does not help in influenza, and might make things worse.  [in mice](https://academic.oup.com/jn/article/136/10/2611/4746705)   Duration of colds seems to go both ways, though apparently some of the studies are contentious.  I haven't looked enough to say why. 
+
+Ultimately, if this works, or even chloroquine, I think everyone would be on board.  They're cheap, not super hard to make, and relatively safe.  Let's hope the clinical trial goes well.

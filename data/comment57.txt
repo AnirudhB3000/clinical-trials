@@ -1,0 +1,3 @@
+I think the bot picks up on the words "I am" (or maybe "I am a") and assumes you're claiming credentials. (You'll notice a post below where someone wrote "Nurse in an Urgent Care" and the bot didn't respond.) 
+
+I am a person trying to answer your question. We'll see if this response summons the bot...

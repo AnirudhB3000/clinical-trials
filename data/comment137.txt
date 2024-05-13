@@ -1,0 +1,3 @@
+I have looked at the data from the TOGETHER trial for fluvoxamine, and was not impressed.
+
+The effect was fairly modest, and not accounting for the powerful pharmaceutical drug-drug reactions fluvoxamine can cause is a strong confounding factor.  Does fluvoxamine actually do anything, or does it make other co-administered treatments more potent via a drug-drug pharmaceutical reaction, like steroids, causing the improvement?

@@ -1,0 +1,5 @@
+PCR has been reasonably sensitive in other viral illnesses, and [here is an article discussing exactly your question of nasal versus throat in other illness.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3698019/) So at least back in 2012 there's some support for NPS or at least noninferiority. 
+
+> For coronavirus, influenza virus, EV, RSV, PIV, and HMPV, the differences among NPS, NW, and OPS were not statistically significant (Table  2). 
+
+The concern you raise is real, of course. Maybe it's different here. Maybe technique will be a problem. I think all we really need is the highest sensitivity test here, and if that ends up being throat swab then great.

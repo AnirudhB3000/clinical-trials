@@ -1,0 +1,139 @@
+COVID Research and the Pursuit of Evidence-Based Medicine I started out making a list of resources for my own benefit, but it's grown into something that I would like to share with others. The post below contains my most frequently referenced SARS-cov2 links and I've also added links for those interested in learning more background about the virus and how research/clinical trials work.
+
+There's a ton of information floating around as the entire globe searches for solutions. I believe it's important for those of us in healthcare to be able to read publications and get a feel for the strengths/weaknesses of the research so that we can better draw our own conclusions. Feel free to add your own comments about research studies, links to other reddit posts regarding this subject, case reports, registries, stuff you think would make this post better etc. I'll update this post as I update my own notes.
+
+***SARS and COVID Background:***
+
+"COVID-19 | Coronavirus: Epidemiology, Pathophysiology | APRIL UPDATE", 47:27 min video by Ninja Nerd  [https://www.youtube.com/watch?v=YRfwZcLeOm4&t=2s](https://www.youtube.com/watch?v=YRfwZcLeOm4&t=2s)
+
+NIH Coronavirus homepage (tons of links) [https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
+
+COVID resource summarizing topics from viral biology all the way to treatments based on effected organ systems (thanks u/skincaredog) [https://emcrit.org/ibcc/COVID19/](https://emcrit.org/ibcc/COVID19/)
+
+SARS-1 on Medscape  (good throwback read from the 2003 SARS epidemic that fortunately wasn't a pandemic)  [https://emedicine.medscape.com/article/237755-overview](https://emedicine.medscape.com/article/237755-overview)
+
+&#x200B;
+
+***Developing EBM,*** ***What is a Clinical Trial & Interpreting the Analytic Data:***
+
+What is EBM? (w/ tutorial links)  [https://libguides.mssm.edu/ebm/EBM\_Tutorial](https://libguides.mssm.edu/ebm/EBM_Tutorial)
+
+Cochrane Reviews and the Evidence Hierarchy (from tutorial)  [https://libguides.mssm.edu/ebm/hierarchy](https://libguides.mssm.edu/ebm/hierarchy)
+
+Clinical Research 101 -  [https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics](https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics)
+
+Deeper dive - "How to interpret clinical trial data" (37:30 minute video, good pptx slides but you can't hear the questions from the audience too well) [https://www.youtube.com/watch?v=eSu5Yh6vAds](https://www.youtube.com/watch?v=eSu5Yh6vAds)
+
+Medium dive -  "Overview of Analytic Studies" (more about cohort studies, case control studies, pitfalls etc. Good food for thought.)  [http://sphweb.bumc.bu.edu/otlt/MPH-Modules/EP/EP713\_AnalyticOverview/index.html](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/EP/EP713_AnalyticOverview/index.html)
+
+Book dive - *Clinical Biostatistics and Epidemiology Made Ridiculously Simple* by Weaver et al (I found this book useful when writing up my master's thesis.  Not a free, online resource but still good to have on hand if you're an entry-level researcher and feeling overwhelmed by biostats)
+
+&#x200B;
+
+***Clinical Trial Registries:***
+
+1.) US and then some - [clinicaltrials.gov](https://clinicaltrials.gov/) Click on links immediately below for preset search parameters.
+
+Some COVID-19 studies worldwide (US included)...
+
+[https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
+
+US studies only...
+
+[https://clinicaltrials.gov/ct2/results?cond=Covid-19&term=&cntry=US&state=&city=&dist=](https://clinicaltrials.gov/ct2/results?cond=Covid-19&term=&cntry=US&state=&city=&dist=)
+
+2.) WHO -  [https://www.who.int/ictrp/en/](https://www.who.int/ictrp/en/) currently available as a downloadable Excel sheet
+
+3.) Chinese clinical trial registry -  [http://www.chictr.org.cn/abouten.aspx](http://www.chictr.org.cn/abouten.aspx)
+
+4.) Korean clinical trial registry -  [Korean equivalent to ClinicalTrials.gov](https://cris.nih.go.kr/cris/en/search/basic_search.jsp) (not much there, enter search terms like "covid" or "sars cov 2" into basic search bar)
+
+&#x200B;
+
+***Other Links to publication sources and rando reads etc:*** *(comment below if you find something that you want added to this list)*
+
+JAMA's New Online publications (For the uninitiated, if you only read one peer-reviewed source, I'd go with this one) [https://jamanetwork.com/journals/jama/newonline/2020/4](https://jamanetwork.com/journals/jama/newonline/2020/4)
+
+Surviving Sepsis Campaign: Guidelines on the Management of Critically Ill Adults With COVID-19  [https://jamanetwork.com/journals/jama/fullarticle/2763879](https://jamanetwork.com/journals/jama/fullarticle/2763879)
+
+PLOS ONE's Covid-19 Collection  [https://collections.plos.org/covid-19](https://collections.plos.org/covid-19)
+
+Cochrane Library homepage  [https://www.cochranelibrary.com/](https://www.cochranelibrary.com/)
+
+Rebel COVID: Dr. Salim Rezaie's FOAMed blog (an EM doc breaks down the latest big COVID research and discusses clinical take-home points derived from the cited literature)  [https://rebelem.com/rebel-covid19/](https://rebelem.com/rebel-covid19/) 
+
+Explore Integrative Medicine: Traditional Chinese Medicine (TCM) studies (Interesting reads if you have the time. Study designs may be questionable per another reviewer, but I haven't analyzed these studies in depth. Worth a scan if you're stuck at home because what else are you going to do while in self-isolation as you await your turn to get shipped to the front lines? You already watched "Tiger King", now go learn about TCM and Shufeng Jiedu Capsules) [https://exploreim.ucla.edu/covid19/publications-on-traditional-chinese-medicine-tcm-to-treat-covid-19/](https://exploreim.ucla.edu/covid19/publications-on-traditional-chinese-medicine-tcm-to-treat-covid-19/)
+
+&#x200B;
+
+***A sampler list of study topics that I threw together while scanning clinicaltrials.gov.*** There's a lot and the list grows by the day, so check the [clinicaltrials.gov](https://clinicaltrials.gov) links above for more info...
+
+\-Sarilumab (IL-6 mAB, US trial)
+
+\- Darunavir/cobicistat plus chloroquine treatment for positive cases or chloroquine alone for contacts (Italian trial)
+
+\-Hydroxychloroquine alone (US prophylaxis trial after exposure)
+
+\-Hydroxychloroquine + Zinc (a Turkish prophylaxis trial)
+
+\- Deferoxamine (Iranian trial)
+
+\-Remdesivir (US trial)
+
+\-Avastin (Bevacizumab, anti-VEGF, Chinese trial)
+
+\-Thalidomide + low dose steroids (Chinese)
+
+\-Carrimycin vs other treatments (Chinese, not sure what carrimycin is)
+
+\- Favipiravir + tocilizumab (Chinese trial)
+
+\-Arbidol vs "other basic treatment" (Chinese trial)
+
+\- Emapalumab + Anakinra (Italian)
+
+\-Cytokine adsorption with Cytosorb w/ ECMO
+
+\-Outcomes of surgery in COVID pts (International trial/registry)
+
+\-Viagra (Chinese trial, sildenafil reduces the pulm HTN)
+
+\-Siltuximab (IL-6 mAB for the ARDS)
+
+\-Thalidomide and low dose steroids
+
+\- + or - Losartan (US trial)
+
+\-Interferon (atomized or otherwise, Chinese trials)
+
+\-NO inhalation study (US trial)
+
+\- Aviptadil (US trial? vasoactive intestinal polypeptide (VIP) in combination with the adrenergic drug phentolamine)
+
+\-Integrative medicine stuff: Vit C (Italian trial),  [C](https://www.medrxiv.org/content/10.1101/2020.06.15.20131227v1)hinese Traditional Medicine trials, Honey (Egyptian trial), Amniotic fluid (is this integrative medicine?)
+
+\-Cardiac complications in SARS (CAPACITY trial, European registry, may accept US patients but you'd have to ask)
+
+\-Several Stem Cell trials
+
+\-Convalescent Plasma
+
+\-Ivermectin +/- Doxycycline vs placebo (Indian trial [https://clinicaltrials.gov/ct2/show/NCT04407130?term=ivermectin&cond=COVID-19&draw=2&rank=7](https://clinicaltrials.gov/ct2/show/NCT04407130?term=ivermectin&cond=COVID-19&draw=2&rank=7)  but other studies elsewhere in the world using ivermectin or doxy in combination with things)
+
+and on and on the list goes...
+
+We still need so many answers.
+
+&#x200B;
+
+“Clinical research is great and all, but my patients are dying TODAY and this doesn't help me”
+
+I wish that I had more to offer all of you Health Care Warriors out there right now, something more substantial than website links. With that in mind I have to say this, and I apologize in advance if I sound like a mom: To all of you out there in the field, feeling like you're spinning your wheels with your COVID patients and not really getting anywhere, just know that we're all in this together and that the international effort for answers is a furious one. Even though you may feel alone and are \[choice combination of 8+ conflicting emotions at once\] or just plain numb, your hard work, clinical research-related or not, means something. We can’t tackle this without you. The whole world would be hopelessly floating up sh\*t creek without you. YOU ARE part of the collective team to handle this mess and WE ALL want you to come out on the other side of this with health intact. Don’t let your PPE precautions lax for even a moment and take care of your mental health as well. Call a friend and don’t talk about work (or do, if it helps you). Pet your cat or take a nature walk. Watch some dumb Youtube videos to get a laugh going. Meditate or Pray. Do whatever you need to do to care for yourself. I swear to Hippocrates, I’ve most likely never met you but I really do care. Please be as safe as possible.
+
+4/4 Edit: added EMcrit link
+
+6/4 Edit: added Medium dive -  "Overview of Analytic Studies", updated Ninja Nerd COVID vid link, added Korean clinical trial registry link
+
+6/19 Edit: added mention of *Clinical Biostatistics and Epidemiology Made Ridiculously Simple,* updated intro paragraph, edited study sampler list to make it shorter, removed old systematic lit review for HCQ and added new review, added systematic lit review of Remdesivir, removed single study results from Other Links area
+
+7/18 Edit: Removed NIH  link "Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19" (interim guidance page was removed), removed Remdesivir pre-print link [https://www.medrxiv.org/content/10.1101/2020.06.15.20131227v1](https://www.medrxiv.org/content/10.1101/2020.06.15.20131227v1), removed Systematic literature review of Hydroxychloroquine in COVID [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7255448/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7255448/), added RebelEM link 

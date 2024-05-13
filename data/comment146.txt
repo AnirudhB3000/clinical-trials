@@ -1,0 +1,7 @@
+Search pubmed with "hydroxychloroquine" AND "meta-analysis" AND "author \[1au\]" + add \[1au\] to signify these are first authors.  Most looked at mortality with HCQ alone, a few only higher death if cardiac patient or mix another drug with HCQ (esp. azithromycin, QT issues I bet). Who would have thought a drug with cardiac side effects (HCQ) would be deadly in a disease that causes heart inflammation or damage in 12-20% admitted and 2.3-4% healthy athletic outpatients with COVID. Then adding a third drug that prolongs QT (azithromycin).  
+
+Here are the mortality authors to insert into search: Abdelrahman, Axfors, Chandrasekar, Das, Fiolet, Ghazy, Hussain, Kim MS, Kumar J, Misra S, Patel TK, Singh AK, Ullah W, Wu S, Yang T, Zang Y, Zhang C.
+
+Here are in the increased adverse effects authors to search: Amani, Bignardi, Chivese, Choudhuri, De Crescenzo, Deng J, Ebina-Shibuya, Elavarasi, Eze, Hernandez AV, Juul S, Kashour, Lewis K, Maraolo, Martins-Filho, Mega, Singh B, Tanni S, Tleyjeh
+
+While some are from journals with less rigorous requirements and peer review, 36 systematic reivew/meta-analyses showing bad events with HCQ seems like more than a trend.

@@ -1,0 +1,1 @@
+It's methodology is extremely suspect. They lump completely heterogeneous outcomes like mortality, disease progression, length of stay, viral load, PCR positivity together as a single measure they call "improvement" and do a statistical analysis on all measures together. Obviously, you can't do that.
