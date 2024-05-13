@@ -1,6 +1,6 @@
+#Main imports - from OpenAI and Langchain
 import os
 import sys
-
 import openai
 from langchain.chains import ConversationalRetrievalChain, RetrievalQA
 from langchain.chat_models import ChatOpenAI
@@ -11,12 +11,15 @@ from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 
+#the API key is saved in this file.
 import constants
 
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
+#This defines where the query data is taken from the terminal
 query = sys.argv[1]
 
+#toggling this will decide if chat information is saved to disk or not.
 PERSIST = True
 
 if PERSIST and os.path.exists("persist"):
@@ -24,7 +27,8 @@ if PERSIST and os.path.exists("persist"):
   vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
   index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
-  loader = DirectoryLoader("D:\Job Applications\Turmerik\data")
+  # a dataloader can also be defined which scrapes from a singular file.
+  loader = DirectoryLoader("D:\Job Applications\Turmerik\data") #hardcoded location due to my environemt - can be customized to any given environemt
   if PERSIST:
     index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory":"persist"}).from_loaders([loader])
   else:
